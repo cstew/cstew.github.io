@@ -18,7 +18,7 @@ When not working, I spend as much time as possible on my motorcycle, running, an
 
 1. Feb 2016 - [Customizing CoordinatorLayout's Behavior](https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/)
 2. Aug 2015 - [Splash Screens the Right Way](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
-3. April 2014 - [Responsive Android Applications](https://www.objc.io/issues/11-android/responsive-android-applications/)
+3. Apr 2014 - [Responsive Android Applications](https://www.objc.io/issues/11-android/responsive-android-applications/)
 4. May 2013 - [Exploring SlidingPaneLayout](https://www.bignerdranch.com/blog/exploring-slidingpanelayout/)
 
 ## Talks
