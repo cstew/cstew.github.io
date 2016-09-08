@@ -24,3 +24,10 @@ When not working, I spend as much time as possible on my motorcycle, running, an
 ## Talks
 
 1. GDG DevFest NL - Oct 10, 2015 - [Material Coordination](https://www.youtube.com/watch?v=FrqUqwxgk5A)
+
+## Social
+
+1. [Twitter](https://twitter.com/cstew)
+2. [Github](https://github.com/cstew)
+3. [Facebook](https://www.facebook.com/chris.stewart2)
+4. [LinkedIn](https://www.linkedin.com/in/chris-stewart-3503639)
