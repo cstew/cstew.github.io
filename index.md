@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am the Director of Android Engineering at Big Nerd Ranch where I am responsible for a team of engineers, leading consulting projects, teaching Android development courses, and authoring our Android Programming book. My focus lately has been on the growth and happiness of the people that I work with. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+When not working, I spend as much time as possible on my motorcycle, running, and traveling.
 
 ## Publications
 
@@ -16,4 +16,11 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ## Posts
 
-1. April 2014 - [Responsive Android Applications](https://www.objc.io/issues/11-android/responsive-android-applications/)
+1. Feb 2016 - [Customizing CoordinatorLayout's Behavior](https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/)
+2. Aug 2015 - [Splash Screens the Right Way](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
+3. April 2014 - [Responsive Android Applications](https://www.objc.io/issues/11-android/responsive-android-applications/)
+4. May 2013 - [Exploring SlidingPaneLayout](https://www.bignerdranch.com/blog/exploring-slidingpanelayout/)
+
+## Talks
+
+1. GDG DevFest NL - Oct 10, 2015 - [Material Coordination](https://www.youtube.com/watch?v=FrqUqwxgk5A)
