@@ -10,5 +10,6 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](https://www.facebook.com/chris.stewart2)
-2. [Twitter](https://twitter.com/cstew)
+1. [Twitter](https://twitter.com/cstew)
+2. [Facebook](https://www.facebook.com/chris.stewart2)
+3. [LinkedIn](https://www.linkedin.com/in/chris-stewart-3503639)
