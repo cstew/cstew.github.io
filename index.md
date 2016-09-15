@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## About Me
-
 <img class="profile-picture" src="profile.png">
 
 I am the Director of Android Engineering at Big Nerd Ranch where I am responsible for a team of engineers, leading consulting projects, teaching Android development courses, and authoring our Android Programming book. My focus lately has been on the growth and happiness of the people that I work with. 
