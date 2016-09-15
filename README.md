@@ -1,1 +1,1 @@
-[My website](cstew.github.io)
+[My website](http://cstew.github.io)
