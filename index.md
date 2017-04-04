@@ -10,6 +10,7 @@ When not working, I spend as much time as possible on my motorcycle, running, an
 
 ## Publications
 
+[Android Programming: The Big Nerd Ranch Guide (3rd Edition)](http://a.co/6RbXA6w)
 [Android Programming: The Big Nerd Ranch Guide (2nd Edition)](https://amzn.com/0134171454)
 
 ## Posts
