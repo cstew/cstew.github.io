@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-I am the VP of Engineering at Big Nerd Ranch where I am responsible for our entire engineering team offering Android, iOS, and Web development + training. My goal is to build a world-class engineering team that delights our customers.
+I am the VP of Engineering at Big Nerd Ranch where I am responsible for our engineering team offering Android, iOS, and Web development + training. My goal is to build a world-class engineering team that delights our customers.
 
 When not working, I spend as much time as possible on my motorcycle, running, and traveling.
 
@@ -23,7 +23,8 @@ When not working, I spend as much time as possible on my motorcycle, running, an
 
 ## Talks
 
-1. GDG DevFest NL - Oct 10, 2015 - [Material Coordination](https://www.youtube.com/watch?v=FrqUqwxgk5A)
+1. Big Nerd Ranch 20th Anniversary - May 20, 2021 - [The Future of the Ranch](https://bignerdranch.com/events/webinars/the-future-of-the-ranch/)
+2. GDG DevFest NL - Oct 10, 2015 - [Material Coordination](https://www.youtube.com/watch?v=FrqUqwxgk5A)
 
 ## Social
 
